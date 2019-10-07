@@ -3,7 +3,7 @@ title: PaüSiber - Önerilen Kaynaklar
 ---
 
 ## Yazılım
-- Kaynak 1
+- [Güzel zine'ler hazırlıyor **`jvns.ca`**](https://jvns.ca/)
 - Kaynak 2
 - Kaynak 3
 
