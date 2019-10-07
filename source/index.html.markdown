@@ -3,7 +3,7 @@ title: PaüSiber - Önerilen Kaynaklar
 ---
 
 ## Yazılım
-- Kaynak 1
+- [Python dokümantasyon(EN) **`Python Documentation`**](https://docs.python.org/3/)
 - Kaynak 2
 - Kaynak 3
 
