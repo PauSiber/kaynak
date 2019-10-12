@@ -8,6 +8,8 @@ title: PaüSiber - Önerilen Kaynaklar
 - Kaynak 3
 
 ## Güvenlik
-- Kaynak 1
-- Kaynak 2
-- Kaynak 3
+- [Canyoupwnme](https://canyoupwn.me/)
+- [Web Security Academy](https://portswigger.net/web-security)
+- [OWASP](https://owasp.org)
+- [HackTheBox](https://www.hackthebox.eu/)
+- [PriviaHub](https://priviahub.com/users/sign_in)
