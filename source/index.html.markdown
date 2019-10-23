@@ -3,9 +3,9 @@ title: PaüSiber - Önerilen Kaynaklar
 ---
 
 ## Yazılım
-- [Python dokümantasyon(EN) **`Python Documentation`**](https://docs.python.org/3/)
-- Kaynak 2
-- Kaynak 3
+
+- [Güzel zine'ler hazırlıyor **`jvns.ca`**](https://jvns.ca/)
+- [Python dokümantasyon **`Python Documentation`**](https://docs.python.org/3/)
 
 ## Güvenlik
 - [Canyoupwnme](https://canyoupwn.me/)
