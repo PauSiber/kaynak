@@ -42,6 +42,15 @@ html {
   min-width: 220px;
 }
 
+.social-media-icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.copyright {
+  margin-top: 10vh;
+}
 
 .bd-placeholder-img {
   font-size: 1.125rem;

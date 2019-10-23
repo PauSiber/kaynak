@@ -9,6 +9,7 @@
     <title><%= current_page.data.title || "PaüSiber" %></title>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
+    <script src="https://kit.fontawesome.com/1c0f9d00f4.js" crossorigin="anonymous"></script>
   </head>
   <body>
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
@@ -31,21 +32,18 @@
       <%= yield %>
 
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
-        <div class="row">
-          <div class="col-12 col-md">
-            <img class="mb-2" src="/images/logo.png" alt="" width="24" height="24">
-            <small class="d-block text-muted">PaüSiber Topluluğu</small>
-            <small class="d-block mb-3 text-muted">&copy; 2016-2019</small>
+          <div class="row social-media-icons">
+              <a class="text-muted" href="https://www.instagram.com/pausiber/"> <i class="fab fa-instagram"></i> Instagram</a>
+              <a class="text-muted" href="https://twitter.com/SiberPau"> <i class="fab fa-twitter"></i> Twitter</a>
+              <a class="text-muted" href="https://t.me/siberpau"> <i class="fab fa-telegram"></i> Telegram</a>
+              <a class="text-muted" href="mailto:siberpau@gmail.com"> <i class="fas fa-envelope"></i> E-posta</a>
           </div>
-          <div class="col-6 col-md">
-            <h5>Sosyal Medya</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="https://www.instagram.com/pausiber/">Instagram</a></li>
-              <li><a class="text-muted" href="https://twitter.com/SiberPau">Twitter</a></li>
-              <li><a class="text-muted" href="https://t.me/siberpau">Telegram</a></li>
-              <li><a class="text-muted" href="mailto:siberpau@gmail.com">E-posta</a></li>
-            </ul>
-          </div>
+          <div class="row text-center copyright">
+            <div class="col-12 col-md ">
+              <img class="mb-2" src="/images/logo.png" alt="" width="24" height="24">
+              <small class="d-block text-muted">PaüSiber Topluluğu</small>
+              <small class="d-block mb-3 text-muted">&copy;2019</small>
+            </div>
         </div>
       </footer>
     </div>
