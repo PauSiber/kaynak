@@ -6,6 +6,9 @@ title: PaüSiber - Önerilen Kaynaklar
 
 - [Güzel zine'ler hazırlıyor **`jvns.ca`**](https://jvns.ca/)
 - [Python dokümantasyon **`Python Documentation`**](https://docs.python.org/3/)
+- [Django Girls](https://tutorial.djangogirls.org/tr/)
+- [Golang Tutorial](https://go-tour-turkish.appspot.com/list)
+- [Türkçe Go Programlama Dili Kitabı](https://kitap.golangtr.org/)
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -25,6 +28,10 @@ title: PaüSiber - Önerilen Kaynaklar
 - [Liveoverflow](https://liveoverflow.com/)
 - [Exploit Education](https://exploit.education/)
 - [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
+- [ring0.info](https://ring0.info/)
+- [abdullahog.lu](http://web.archive.org/web/20190101014842/http://www.abdullahog.lu/index.php/bilisim)
+- [cihatyildiz](https://blog.cihatyildiz.com/)
+- [manalysiz](https://manalysiz.com/)
 
 ## Film/Dizi/Belgesel
 - [Snowden (2016)](https://www.imdb.com/title/tt3774114/)
@@ -44,3 +51,21 @@ title: PaüSiber - Önerilen Kaynaklar
 - [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 - [Unit 42](https://www.imdb.com/title/tt6136644/)
 - [Person of Interest](https://www.imdb.com/title/tt1839578/)
+
+## Kitap
+- [Linux 101 Hacks - Türkçe Çevirisi](https://github.com/ozmu/Linuxta-101-Ipucu/blob/master/linuxta-101-ipucu.pdf)
+- [The Shellcoder's Handbook](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X)
+- [Sockets, Shellcode, Porting,& Coding](https://www.amazon.com/Sockets-Shellcode-Porting-Coding-Professionals/dp/1597490059)
+- [A Bug Hunter's Diary](https://www.amazon.com/Bug-Hunters-Diary-Software-Security/dp/1593273851)
+- [Advanced Windows Debugging](https://www.amazon.com/Advanced-Windows-Debugging-Mario-Hewardt/dp/0321374460)
+- [Inside Windows NT](https://www.amazon.com/Inside-Windows-NT-Microsoft-Programming/dp/1572316772)
+- [The Rootkit Arsenal](https://www.amazon.com/Rootkit-Arsenal-Escape-Evasion-Corners/dp/1598220616)
+- [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+- [The Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
+- [The Practice of Network Security Monitoring](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/)
+- [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
+- [Serious Cryptography](https://www.amazon.com/Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268)
+- [Introduction to Artificial Intelligence for Security Professionals](https://www.amazon.com/Introduction-Artificial-Intelligence-Security-Professionals-ebook/dp/B07654CFFQ)
+- [The Hacker Playbook 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/)
+- [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+- [Professional Linux Kernel Architecture](https://www.amazon.com/Professional-Kernel-Architecture-Wolfgang-Mauerer/dp/0470343435)
