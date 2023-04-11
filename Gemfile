@@ -9,7 +9,7 @@ gem "middleman-blog", "~> 4.0"
 gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
 gem 'middleman-syntax', '~> 3.0'
 gem 'redcarpet', '~> 3.4'
-gem 'nokogiri', '~> 1.8', '>= 1.8.2'
+gem 'nokogiri', '~> 1.14'
 gem 'builder', '~> 3.2', '>= 3.2.3'
 gem 'bootstrap', '~> 4.0.0.beta2.1'
 gem 'font-awesome-sass', '~> 4.7.0'
